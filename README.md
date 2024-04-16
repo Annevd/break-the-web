@@ -22,6 +22,9 @@ Om de **Speed Index** te verbeteren is het belangrijk dat je je pagina's zo lich
 
 Om de **Total Blocking Time** te verbeteren is het belangrijk om je code te optimaliseren en zo weinig mogelijk zware functies te gebruiken.
 
+Ook heb ik de website getest met én zonder **adblocker** en heb ondervonden dat de website trager is mét een adblocker.
+Daarnaast heb ik getest of de website werkte **zonder Javascript**. In dit geval had de website nog een aantal problemen.
+
 Mijn uitgebreide testbevindingen zijn te lezen in mijn [wiki](https://github.com/Annevd/break-the-web/wiki).
 
 
