@@ -10,8 +10,8 @@ Op **15 april 2024** heb ik de website van [HEMA](https://hema.nl) getest. Ik he
 
 ![image](https://github.com/Annevd/break-the-web/assets/144004647/3dc88c83-8684-418b-9c61-b8cfd61bb8aa)
 
-<img height= 475 src="https://github.com/Annevd/break-the-web/assets/144004647/70e4a0eb-aad7-458a-9681-5badea24244a">
-<img height= 475 src="https://github.com/Annevd/break-the-web/assets/144004647/4307950b-56a7-425e-bbd6-4b4a88a603b8">
+<img height= 470 src="https://github.com/Annevd/break-the-web/assets/144004647/70e4a0eb-aad7-458a-9681-5badea24244a">
+<img height= 470 src="https://github.com/Annevd/break-the-web/assets/144004647/4307950b-56a7-425e-bbd6-4b4a88a603b8">
 
 Schrijf een samenvatting van de testbevindingen en verwijs naar je Wiki voor een uitgebreide rapportage.
 
