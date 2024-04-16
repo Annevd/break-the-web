@@ -10,10 +10,19 @@ Op **15 april 2024** heb ik de website van [HEMA](https://hema.nl) getest. Ik he
 
 ![image](https://github.com/Annevd/break-the-web/assets/144004647/3dc88c83-8684-418b-9c61-b8cfd61bb8aa)
 
+**Resultaten:**
+
 <img height= 470 src="https://github.com/Annevd/break-the-web/assets/144004647/70e4a0eb-aad7-458a-9681-5badea24244a">
 <img height= 470 src="https://github.com/Annevd/break-the-web/assets/144004647/4307950b-56a7-425e-bbd6-4b4a88a603b8">
 
-Schrijf een samenvatting van de testbevindingen en verwijs naar je Wiki voor een uitgebreide rapportage.
+Om deze website te testen heb ik een lighthouse test gedaan, Pagespeed Insights gebruikt en de features Javascript en Ad/contentblockers onderzocht.
+Hema scoorde goed op de metrics **First Contentful Paint (FCP)**, **Largest Contentful Paint (LCP)** en **Cumulative Layout Shift (CLS)**. Bij **Total Blocking Time (TBT)** en **Speed Index** is er nog genoeg ruimte voor verbetering.
+
+Om de **Speed Index** te verbeteren is het belangrijk dat je je pagina's zo licht mogelijk maakt door afbeeldingen te optimaliseren (compressen) en onnodige scripts/code te verwijderen. Hoe sneller de pagina opbouwt, hoe beter!
+
+Om de **Total Blocking Time** te verbeteren is het belangrijk om je code te optimaliseren en zo weinig mogelijk zware functies te gebruiken.
+
+Mijn uitgebreide testbevindingen zijn te lezen in mijn [wiki](https://github.com/Annevd/break-the-web/wiki).
 
 
 ## Licentie
